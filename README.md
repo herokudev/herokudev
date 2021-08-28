@@ -8,20 +8,20 @@
 
 Hello Dev community!!
 
-## About me
+## About me:
 
 - I have previously worked for companies such as Xerox, Conduent, Western Union.
 - I speak two languages ​​-> English and Spanish.
 - My main hobby is playing sports, especially swimming, running and cycling.
 
-## Links
+## Links:
 
 - My Linkedin: [Herbert Armando Orellana](https://www.linkedin.com/in/armando-orellana-a0b50b34/)
 - My Twitter: [@HerbertOrellan4](https://twitter.com/HerbertOrellan4)
 - E-mail me at: oherbert860@gmail.com
 
 
-## Getting Started
+## My stack:
 
 - C# / VB.NET
 - Phyton
