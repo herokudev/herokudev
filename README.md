@@ -2,7 +2,7 @@
 
 # Herbert Orellana
 
-> Life is like a game board. You're winning? You are losing? What is your game strategy?
+> Life is like a game board. Are you winning? Are you losing? What is your game strategy?
 
 ![screenshot](./app_screenshot.png)
 
@@ -44,7 +44,7 @@ Hello Dev community!!
 ## My stack:
 
 - C# / VB.NET
-- Phyton
+- Phython
 - HTML / CSS
 - Bootstrap
 - Javascript
