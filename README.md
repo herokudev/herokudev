@@ -45,7 +45,7 @@ Hello Dev community!!
 ## My stack:
 
 - C# / VB.NET
-- Phython
+- Python
 - HTML / CSS
 - Bootstrap
 - Javascript
