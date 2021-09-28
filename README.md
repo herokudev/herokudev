@@ -37,7 +37,7 @@ Hello Dev community!!
 
 ## Links:
 
-- My Linkedin: [Herbert Armando Orellana](https://www.linkedin.com/in/armando-orellana-a0b50b34/)
+- My Linkedin: [Herbert Armando Orellana](https://www.linkedin.com/in/herbert-armando-orellana-a0b50b34/)
 - My Twitter: [@HerbertOrellan4](https://twitter.com/HerbertOrellan4)
 - E-mail me at: oherbert860@gmail.com
 
