@@ -17,7 +17,7 @@ Hello Dev community!!
 ## Stats
 [![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=herokudev&theme=radical)](https://github.com/herokudev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herokudev&layout=compact&langs_count=4&theme=radical)](https://github.com/herokudev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herokudev&layout=compact&langs_count=6&theme=radical)](https://github.com/herokudev/github-readme-stats)
 
 
 ## Languages and Tools:
@@ -44,7 +44,7 @@ Hello Dev community!!
 
 ## My stack:
 
-- C# / VB.NET
+- C#
 - Python
 - HTML / CSS
 - Bootstrap
