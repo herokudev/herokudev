@@ -17,7 +17,7 @@ Hello Dev community!!
 ## Stats
 [![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=herokudev&theme=radical)](https://github.com/herokudev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herokudev&layout=compact&langs_count=4&theme=radical)](https://github.com/herokudev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herokudev&layout=compact&langs_count=6&theme=radical)](https://github.com/herokudev/github-readme-stats)
 
 
 ## Languages and Tools:
@@ -33,23 +33,28 @@ Hello Dev community!!
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a>
+<<<<<<< HEAD
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="40" height="40"/> </a> 
+=======
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="40" height="40"/> </a>  
+>>>>>>> 218224fe2b9519cd06f981e2350b4bc433c5b1e5
 </p>
 
 ## Links:
 
-- My Linkedin: [Herbert Armando Orellana](https://www.linkedin.com/in/armando-orellana-a0b50b34/)
+- My Linkedin: [Herbert Armando Orellana](https://www.linkedin.com/in/herbert-armando-orellana-a0b50b34/)
 - My Twitter: [@HerbertOrellan4](https://twitter.com/HerbertOrellan4)
 - E-mail me at: oherbert860@gmail.com
 
 
 ## My stack:
 
-- C# / VB.NET
-- Phython
+- C#
+- Python
 - HTML / CSS
 - Bootstrap
 - Javascript
+- Django
 
 ## Show your support
 
