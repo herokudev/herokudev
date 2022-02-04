@@ -33,7 +33,7 @@ Hello Dev community!!
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/herokudev/herokudev/master/django.svg" alt="django" width="40" height="40"/> </a> 
 </p>
 
 ## Links:
