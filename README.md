@@ -1,10 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Herbert Orellana
 
-> Life is like a game board. Are you winning? Are you losing? What is your game strategy?
-
-![screenshot](./app_screenshot.png)
+> Hi, I'm Herbert, a passionate self-taught full stack web developer and a freelance software engineer from Guatemala, Central America. My passion for software lies with dreaming up ideas and making them come true.
 
 Hello Dev community!!
 
@@ -15,9 +11,6 @@ Hello Dev community!!
 - My main hobby is playing sports, especially swimming, running and cycling.
 
 ## Stats
-[![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=herokudev&theme=radical)](https://github.com/herokudev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herokudev&layout=compact&langs_count=6&theme=radical)](https://github.com/herokudev/github-readme-stats)
 
 
 ## Languages and Tools:
@@ -38,19 +31,17 @@ Hello Dev community!!
 
 ## Links:
 
-- My Linkedin: [Herbert Armando Orellana](https://www.linkedin.com/in/herbert-armando-orellana-a0b50b34/)
+- My Linkedin: [Herbert Armando Orellana](https://www.linkedin.com/in/herbert-orellana/)
 - My Twitter: [@HerbertOrellan4](https://twitter.com/HerbertOrellan4)
 - E-mail me at: oherbert860@gmail.com
 
 
 ## My stack:
 
-- C#
-- Python
+- Javascript
 - HTML / CSS
 - Bootstrap
-- Javascript
-- Django
+- React
 
 ## Show your support
 
