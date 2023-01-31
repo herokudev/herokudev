@@ -13,7 +13,7 @@ Hello Dev community!!
 
 ## Stats
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=herokudev&layout=compact&theme=vision-friendly-dark
+![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=herokudev&hide=contribs,prs)
 
 ## Languages and Tools:
 
