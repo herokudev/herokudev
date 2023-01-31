@@ -13,6 +13,7 @@ Hello Dev community!!
 
 ## Stats
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=herokudev&layout=compact&theme=vision-friendly-dark
 
 ## Languages and Tools:
 
